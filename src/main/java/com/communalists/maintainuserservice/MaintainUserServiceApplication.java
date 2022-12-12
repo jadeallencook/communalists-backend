@@ -1,0 +1,13 @@
+package com.communalists.maintainuserservice;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class MaintainUserServiceApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(MaintainUserServiceApplication.class, args);
+	}
+
+}
